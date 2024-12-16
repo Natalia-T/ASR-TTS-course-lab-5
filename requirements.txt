@@ -6,3 +6,4 @@ torchmetrics
 jupyterlab
 ipython
 matplotlib
+soundfile
